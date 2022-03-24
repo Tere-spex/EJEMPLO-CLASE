@@ -19,7 +19,7 @@ export default {
   // 2: registrar el component
   components: {
     //HelloWorld,
-    Counter,
+    //Counter,
     Bank,
   },
   data() {
